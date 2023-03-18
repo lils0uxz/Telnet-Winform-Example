@@ -18,6 +18,5 @@ namespace Telnet
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new MainForm());
 		}
-		
 	}
 }
