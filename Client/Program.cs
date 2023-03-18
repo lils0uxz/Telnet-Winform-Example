@@ -1,12 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: yabeow
- * Date: 31/03/2018
- * Time: 3:02 CH
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-using System;
+﻿using System;
 using System.Windows.Forms;
 
 namespace Client
